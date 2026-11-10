@@ -6,8 +6,6 @@ It's a simple two player game of Pong. You play the game by having each player t
 
 I wanted to learn more about game development as a software engineer at a lower scripting level, that's why I used the pygame library because it allows you 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/f4ZVGw2vFs0)
 
 # Development Environment
@@ -22,7 +20,6 @@ pygame
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [pygame.org](https://www.pygame.org/docs/)
 * [YouTube (Make Systems Not Games)](https://www.youtube.com/watch?v=QPuIysZxXwM)
 * [YouTube (Game Mechanics & Systems Thinking)](https://www.youtube.com/watch?v=nkLmjJK3vOw)
